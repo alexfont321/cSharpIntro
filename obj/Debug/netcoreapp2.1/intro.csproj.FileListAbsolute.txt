@@ -1,0 +1,11 @@
+/Users/alejandro/Workspace/csharp/intro/bin/Debug/netcoreapp2.1/intro.deps.json
+/Users/alejandro/Workspace/csharp/intro/bin/Debug/netcoreapp2.1/intro.runtimeconfig.json
+/Users/alejandro/Workspace/csharp/intro/bin/Debug/netcoreapp2.1/intro.runtimeconfig.dev.json
+/Users/alejandro/Workspace/csharp/intro/bin/Debug/netcoreapp2.1/intro.dll
+/Users/alejandro/Workspace/csharp/intro/bin/Debug/netcoreapp2.1/intro.pdb
+/Users/alejandro/Workspace/csharp/intro/obj/Debug/netcoreapp2.1/intro.csprojAssemblyReference.cache
+/Users/alejandro/Workspace/csharp/intro/obj/Debug/netcoreapp2.1/intro.csproj.CoreCompileInputs.cache
+/Users/alejandro/Workspace/csharp/intro/obj/Debug/netcoreapp2.1/intro.AssemblyInfoInputs.cache
+/Users/alejandro/Workspace/csharp/intro/obj/Debug/netcoreapp2.1/intro.AssemblyInfo.cs
+/Users/alejandro/Workspace/csharp/intro/obj/Debug/netcoreapp2.1/intro.dll
+/Users/alejandro/Workspace/csharp/intro/obj/Debug/netcoreapp2.1/intro.pdb
